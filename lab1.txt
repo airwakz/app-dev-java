@@ -1,0 +1,17 @@
+Lexical Issue(Tokens)
+Smallest part of the program is called  smallest part of the program  is called tocken 
+Literals-
+Comments-
+	1.Single-line Comment 
+	2.Multiline Comment
+	3.Documentation Comment
+Data Type-
+	1.Primitive Data Type
+		1.Int - 4 bytes
+		2.Float - 4 byte
+		3.Char - 2 byte
+		4.Bool - 1 byte
+		5.short - 2 byte - can store negative number
+		6.double - 8 byte 
+		7.long - 8 byte
+
